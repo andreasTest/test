@@ -9,14 +9,10 @@ public class Man {
 	}
 	
 	
-	public static void Bizz (int n){
+	public static void Bizz (int n,int x){
 		
-		System.out.println("multiple de 3");
+		System.out.println("multiple de 3et multiple de 5");
 	}
 	
-public static void Buzz (int n){
-		
-	System.out.println("multiple de 5");
-	}
 
 }
