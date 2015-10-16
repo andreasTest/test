@@ -11,7 +11,7 @@ public class Man {
 	
 	public static void Bizz (int n,int x){
 		
-		System.out.println("multiple de 3et multiple de 5");
+		
 	}
 	
 
